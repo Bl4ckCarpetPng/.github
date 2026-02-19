@@ -2,7 +2,7 @@
 ## Main information
 - **wild** programmer
 - The current spawnpoint is located... well... somewhere in Europe, perhaps?
-- knows a bit of C#, JS, Lua and shell scripting
+- knows a bit of C#, JS, Java, Lua and shell scripting
 - uses that damn penguin
 ### Actual hobbies
 - Programming, ofc
@@ -11,7 +11,7 @@
 - Seeing coolers spinning
 - (unreal) Touching the grass
 ### Actual projects/contributions
-- Windgrow (simple discord bot running on nodejs)
+- [TransLLMate](https://github.com/Bl4ckCarpetPng/TransLLMate)
 - DeerSystem (a codename for DOS simulator written on C#)
 - Maybe some other things, or even private contributions... I don't remember tbh
 ## Socials & (possibly) other stuff
